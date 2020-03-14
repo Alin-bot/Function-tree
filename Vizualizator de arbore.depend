@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1579105171 source:c:\codeblocks\vizualizator de arbore\main.cpp
+	<iostream>
+	<cstring>
+	<graphics.h>
+	<winbgim.h>
+
+1579105171 source:c:\users\40742\downloads\proiect\vizualizator de arbore\main.cpp
+	<iostream>
+	<cstring>
+	<graphics.h>
+	<winbgim.h>
+
